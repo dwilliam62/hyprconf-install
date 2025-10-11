@@ -125,7 +125,7 @@ This Hyprland configuration is kind of minila looking, but also little bit gorge
 - Select and Open apps using Rofi app launcher
 - Gorgeous looking Waybar styles
 - Rofi app launcher styles
-- Rofi power menu
+- Wlogout power menu
 - Locking with Hyprlock
 - Set your user image in Hyprlock ( a script `~/.config/hypr/add_user.sh` to set your user image )
 - Hypridle to handle auto lock and suspend when no action is runnin
